@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mineclearer/static/css/main.e110ebea.chunk.css",
+    "main.js": "/react-mineclearer/static/js/main.0307540e.chunk.js",
+    "main.js.map": "/react-mineclearer/static/js/main.0307540e.chunk.js.map",
+    "runtime-main.js": "/react-mineclearer/static/js/runtime-main.4225c6b2.js",
+    "runtime-main.js.map": "/react-mineclearer/static/js/runtime-main.4225c6b2.js.map",
+    "static/js/2.c99a6995.chunk.js": "/react-mineclearer/static/js/2.c99a6995.chunk.js",
+    "static/js/2.c99a6995.chunk.js.map": "/react-mineclearer/static/js/2.c99a6995.chunk.js.map",
+    "index.html": "/react-mineclearer/index.html",
+    "static/css/main.e110ebea.chunk.css.map": "/react-mineclearer/static/css/main.e110ebea.chunk.css.map",
+    "static/js/2.c99a6995.chunk.js.LICENSE.txt": "/react-mineclearer/static/js/2.c99a6995.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4225c6b2.js",
+    "static/js/2.c99a6995.chunk.js",
+    "static/css/main.e110ebea.chunk.css",
+    "static/js/main.0307540e.chunk.js"
+  ]
+}
