@@ -424,7 +424,7 @@ class Initialize extends React.Component {
         if (isInitialized) {
             return (
                 <div className="mineclearer">
-                    <h1>Minecleaerer</h1>
+                    <h1>Mineclearer</h1>
                     <Game
                         rows={rows}
                         columns={columns}
