@@ -1,0 +1,21 @@
+.tile {
+  height: 25px;
+  width: 25px;
+  float: left;
+  font-weight: bold;
+  border-width: thin;
+}
+
+.field-row {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mineclearer {
+  text-align: center;
+}
+
+.initializeForm {
+  margin-left: 30px;
+}
